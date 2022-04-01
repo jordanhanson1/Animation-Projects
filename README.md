@@ -1,2 +1,2 @@
-# Animation-Projects
- Animation projects done with java processing library
+# Java-Projects
+ Projects done with java processing library
